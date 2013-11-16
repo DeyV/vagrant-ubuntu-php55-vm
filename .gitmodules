@@ -1,0 +1,27 @@
+[submodule "puppet/modules/php"]
+	path = puppet/modules/php
+	url = https://github.com/jippi/puppet-php.git
+[submodule "puppet/modules/apt"]
+	path = puppet/modules/apt
+	url = https://github.com/puppetlabs/puppetlabs-apt.git
+[submodule "puppet/modules/mysql"]
+	path = puppet/modules/mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "puppet/modules/nginx"]
+	path = puppet/modules/nginx
+	url = https://github.com/jfryman/puppet-nginx.git
+[submodule "puppet/modules/stdlib"]
+	path = puppet/modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "puppet/modules/wget"]
+	path = puppet/modules/wget
+	url = https://github.com/maestrodev/puppet-wget.git
+[submodule "puppet/modules/mongodb"]
+	path = puppet/modules/mongodb
+	url = https://github.com/puppetlabs/puppetlabs-mongodb.git
+[submodule "puppet/modules/elasticsearch"]
+	path = puppet/modules/elasticsearch
+	url = https://github.com/sqmk/puppet-elasticsearch.git
+[submodule "puppet/modules/java"]
+	path = puppet/modules/java
+	url = https://github.com/mikekamornikov/puppetlabs-java.git
